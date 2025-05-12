@@ -54,6 +54,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <ProjectReference Include="..\RobustToolbox\Robust.Shared\Robust.Shared.csproj">
       <Private>false</Private>
     </ProjectReference>
+    <ProjectReference Include="..\Corvax\Content.Corvax.Interfaces.Shared\Content.Corvax.Interfaces.Shared.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Goobstation\Changeling\Changeling.Actions.cs" />
